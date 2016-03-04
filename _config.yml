@@ -1,0 +1,28 @@
+name: Ex-Pat USA
+favicon: null
+layout_spectrum: 0.7933210679329932
+typography_spectrum: 0.4300720556639135
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#9D2D3C'
+    - '#DDE4DD'
+    - '#BCAB47'
+    - '#6B574B'
+    - '#160600'
+  brandStrength: 0.8714853010606021
+  lightness: 0.5865962838288397
+  saturation: 0.06834543123841286
+  rhythmicContrast: 0.015596729470416903
+purpose: []
